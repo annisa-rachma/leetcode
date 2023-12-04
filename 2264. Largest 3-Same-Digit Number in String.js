@@ -33,13 +33,8 @@ var largestGoodInteger = function(num) {
     for(let start=0; start<=num.length-3; start++) {
         let end = start + 3
         let substring = num.substring(start, end)
-        if(substring[0] === substring[1] && substring[1] === substring[2]) {
-            if(substring === "000" && max < substring) {
-                max = substring
-            }
-            if(max < substring) {
-                max = substring
-            }
+        if(substring[0] === substring[1] && substring[1] === substring[2] && max < substring) {
+            max = substring
         }        
     }
 
