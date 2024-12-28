@@ -6,11 +6,13 @@
 | ------- |
 | [0001-two-sum](https://github.com/annisa-rachma/leetcode/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/annisa-rachma/leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/annisa-rachma/leetcode/tree/master/0217-contains-duplicate) |
 | [0605-can-place-flowers](https://github.com/annisa-rachma/leetcode/tree/master/0605-can-place-flowers) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/annisa-rachma/leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/annisa-rachma/leetcode/tree/master/0217-contains-duplicate) |
 ## Database
 |  |
 | ------- |
@@ -25,6 +27,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/annisa-rachma/leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/annisa-rachma/leetcode/tree/master/0217-contains-duplicate) |
 ## Greedy
 |  |
 | ------- |
