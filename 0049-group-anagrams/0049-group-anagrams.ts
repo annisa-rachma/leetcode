@@ -9,11 +9,9 @@ function groupAnagrams(strs: string[]): string[][] {
         let current = strs[i].split('').sort().join('')
 
         if(!res[current]) {
-            res[current] = [strs[i]]
-        } else {
-            res[current].push(strs[i])
-        }
-        
+            res[current] = []
+        } 
+        res[current].push(strs[i])  
     }
 
     return Object.values(res)
