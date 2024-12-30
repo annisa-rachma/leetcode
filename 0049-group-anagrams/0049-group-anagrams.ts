@@ -16,11 +16,5 @@ function groupAnagrams(strs: string[]): string[][] {
         
     }
 
-    //insert each map value into the output array
-    let output: string[][] = []
-    for(let key in res) {
-        output.push(res[key])
-    }
-
-    return output.sort()
+    return Object.values(res)
 };
