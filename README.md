@@ -22,6 +22,7 @@
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/annisa-rachma/leetcode/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/annisa-rachma/leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/annisa-rachma/leetcode/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/annisa-rachma/leetcode/tree/master/0620-not-boring-movies) |
