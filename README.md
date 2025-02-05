@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/annisa-rachma/leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/annisa-rachma/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/annisa-rachma/leetcode/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/annisa-rachma/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/annisa-rachma/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/annisa-rachma/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/annisa-rachma/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -90,4 +91,8 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/annisa-rachma/leetcode/tree/master/0036-valid-sudoku) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/annisa-rachma/leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
