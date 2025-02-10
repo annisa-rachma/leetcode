@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/annisa-rachma/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/annisa-rachma/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/annisa-rachma/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/annisa-rachma/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sorting
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/annisa-rachma/leetcode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/annisa-rachma/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/annisa-rachma/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/annisa-rachma/leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/annisa-rachma/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
